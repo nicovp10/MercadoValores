@@ -5,7 +5,7 @@ Este proyecto ha sido realizado para aprender de forma didáctica como desarroll
 
 La aplicación consiste en un mercado de valores en el cual diferentes tipos de usuarios interactúan realizando diversas funcionalidades.
 
-El repositorio está formado por los scripts relacionados con la BBDD y el código de la aplicación, junto con la librería necesaria para la conexión a una BBDD de PostgreSQL y una librería para visualizar calendarios en la interfaz gráfica.
+El repositorio está formado por un directorio con los scripts relacionados con la BBDD (`scriptsBBDD`), el código de la aplicación (`src`), el fichero de configuración de la conexión a la BBDD (`baseDatos.properties`), la librería necesaria para la conexión a una BBDD de PostgreSQL (`postgresql.jar`) y una librería para visualizar calendarios en la interfaz gráfica (`jcalendar-1.4.jar`).
 
 
 ## Objetivo del proyecto
