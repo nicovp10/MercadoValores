@@ -4,6 +4,7 @@
 Este proyecto ha sido realizado para aprender de forma didáctica como desarrollar una aplicación Java que use conexiones a bases de datos, en este caso a través de JDBC. En el desarrollo de dicha aplicación ha sido realizado por un equipo de 6 personas.
 
 La aplicación consiste en un mercado de valores en el cual diferentes tipos de usuarios interactúan realizando diversas funcionalidades.
+Los ficheros del repositorio permiten abrir este como un proyecto de NetBeans, IDE desde el cual se puede ejecutar la aplicación.
 
 
 ## Objetivo del proyecto
