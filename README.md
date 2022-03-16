@@ -15,7 +15,7 @@ En este mercado de valores se podrán negociar (compra y venta) las participacio
 
 
 ## Funcionalidades del sistema
-A continuación se presentan de forma clara y concisa los tipos de usuario que existen en el sistema así como todas las funcionalidades que tiene el mismo, divididas en funcionalidades de usuarios (FU) y funcionalidades de comercio (FC).
+A continuación se presentan detalladamente los tipos de usuario que existen en el sistema así como todas las funcionalidades que tiene el mismo, divididas en funcionalidades de usuarios (FU) y funcionalidades de comercio (FC).
 
 ### Tipos de usuarios
 * __Regulador:__ usuario encargado de verificar el funcionamiento correcto del mercado de valores, especialmente en lo referido a la gestión de las cuentas de las empresas e inversores (modificaciones manuales de los saldos de las cuentas) y establecimiento de la comisión de compra/venta. No es necesario ningún dato de identificación personal ya que se trata de una persona jurídica. Accederá al sistema mediante identificación usuario/password.
