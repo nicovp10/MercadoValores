@@ -1,4 +1,4 @@
-# MercadoValores
+# Mercado de valores
 
 ## Introducción
 Este proyecto ha sido realizado para aprender de forma didáctica como desarrollar una aplicación Java que use conexiones a bases de datos, en este caso a través de JDBC. En el desarrollo de dicha aplicación ha sido realizado polo seguinte equipo: [Pablo Souto Soneira](https://github.com/Pabloo-ss), [Adrián Vidal Lorenzo](https://github.com/adrianvidal2), otras 3 persoas que no tienen GitHub y yo, Nicolás Vilela Pérez.
