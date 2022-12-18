@@ -1,11 +1,11 @@
 # Mercado de valores
 
 ## Introducción
-Este proyecto ha sido realizado para aprender de forma didáctica como desarrollar una aplicación Java que use conexiones a bases de datos, en este caso a través de JDBC. El desarrollo de dicha aplicación ha sido realizado por el siguiente equipo: [Pablo Souto Soneira](https://github.com/Pabloo-ss), [Adrián Vidal Lorenzo](https://github.com/adrianvidal2), otras 3 persoas y yo, Nicolás Vilela Pérez.
+Este proyecto ha sido realizado para aprender de forma didáctica como desarrollar una aplicación Java que use conexiones a bases de datos, en este caso a través de JDBC. El desarrollo de dicha aplicación ha sido realizado por el siguiente equipo: Carlos Rodríguez Fernández, Carlos Rozas Rodríguez, [Pablo Souto Soneira](https://github.com/Pabloo-ss), Pablo Ubeira Carramal, [Adrián Vidal Lorenzo](https://github.com/adrianvidal2) y yo, Nicolás Vilela Pérez.
 
 La aplicación consiste en un mercado de valores en el cual diferentes tipos de usuarios interactúan realizando diversas funcionalidades.
 
-El repositorio está formado por un directorio con los scripts relacionados con la BBDD ([`scriptsBBDD`](scriptsBBDD)), el código de la aplicación ([`src`](src)), el fichero de configuración de la conexión a la BBDD ([`baseDatos.properties`](baseDatos.properties)), la librería necesaria para la conexión a una BBDD de PostgreSQL (`postgresql.jar`) y una librería para visualizar calendarios en la interfaz gráfica (`jcalendar-1.4.jar`).
+El repositorio está formado por un directorio con los scripts relacionados con la BBDD ([`scriptsBBDD`](scriptsBBDD)), el código de la aplicación ([`src`](src)), el fichero de configuración de la conexión a la BBDD ([`baseDatos.properties`](baseDatos.properties)), la librería necesaria para la conexión a una BBDD de PostgreSQL (`postgresql.jar`), una librería para visualizar calendarios en la interfaz gráfica (`jcalendar-1.4.jar`) y la [memoria](Memoria.pdf) completa del proyecto.
 
 
 ## Objetivo del proyecto
